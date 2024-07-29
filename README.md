@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="263" src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif"  />
+  <img height="292" src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif"  />
 </div>
 
 ###
@@ -47,6 +47,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
