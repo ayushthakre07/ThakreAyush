@@ -110,11 +110,11 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codetechie18&" alt="praanav-cpu" /></p>
+<p><img align="left" src="https://github.com/ThakreAyush" alt="ThakreAyush" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=codetechie18&show_icons=true&locale=en" alt="praanav-cpu" /></p>
+<p>&nbsp;<img align="left" src="https://github.com/ThakreAyush" alt="ThakreAyush" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codetechie18&show_icons=true&locale=en&layout=compact" alt="praanav-cpu" /></p>
+<p><img align="center" src="https://github.com/ThakreAyush" alt="ThakreAyush" /></p>
 
  
 
