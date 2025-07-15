@@ -1,141 +1,55 @@
-<div align="center">
-  <div align="center">
-       <img height="200" src="dp.png.png"/>
-  </div>
+<a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
+
+<h1 align="center">💫 Hey everyone, I'm Ayush</h1>
+<h3 align="center">Passionate developer solving real-world problems through efficient software development.</h3><br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+I am **Ayush** and it's amazing to have you here!<p>I'm a passionate Full Stack Developer who enjoys building scalable, user-focused applications that solve real-world problems and create meaningful impact.</p>
+-  👋 Hi, I’m Ayush Thakre
+- 👀 I’m interested in Coding and Problem Solving.
+- 🌱 I'm in Web and AI based Project 
+- 📫 How to reach me my email: ayushthakre4525@gamil.com
+
+
+<div style="font-family: Arial, sans-serif; color: #fff; background-color: #0d1117; padding: 20px; border-radius: 10px;"><br>
+
+  <h2>Let's Connect! 🤝</h2>
+  <p>
+    <a href="https://www.instagram.com/ayushthakre__/" target="_blank">
+      <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logo=github&logoColor=white"" />
+    </a>
+    <a href="https://www.linkedin.com/feed/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logo=github&logoColor=white"" />
+    </a>
+    <a href="https://x.com/ayushthakre__?t=J6QLerM5DED6ScCDKdv3Dg&s=09" target="_blank">
+      <img src="https://img.shields.io/badge/X-black.svg?logo=X&style=for-the-badge&logo=github&logoColor=white"" />
+    </a>
+    <a href="mailto:ayushthakre4524@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logo=github&logoColor=white"" />
+    </a>
+  </p>
+
+  <h2>💻 Tech Stack:</h2>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,flask,html,css,bootstrap,tailwind,react,nodejs,mysql,mongodb,firebase,gcp,postman,vscode,figma,github&perline=7" />
+  </a>
+</p>
+
+### 📌 Contribution Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushthakre07&theme=radical" alt="Contribution Graph" />
+</p>
+
+
+  <h2>📊 GitHub Stats:</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ayushthakre07&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ayushthakre07&theme=highcontrast&hide_border=true" alt="Streak Stats" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushthakre07&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="max-width: 100%;" />
+  </p>
+
+  <p style="font-size: 12px; color: gray;">Proudly created with GPRM ( <a href="https://gprm.itsvg.in" style="color: #58a6ff;">https://gprm.itsvg.in</a> )</p>
 </div>
-
-###
-
-<h2 align="center">Hi 👋!   I'm Ayush Thakre</h2>
-
-###
-
-<br clear="both">
-
-<h3 align="center">A passionate Developer .</h3>
-
-###
-
-<br clear="both">
-
-<p align="left">🔭 I’m currently working on My 3d Portfolio<br><br>🌱 I’m currently learning MERN<br><br>📫 How to reach me  :  ayushthakre407@gmail.com<br><br>💬 Ask me about  react , gsap<br><br>⚡ Fun fact I am Funny</p>
-
-###
-
-<h1 align="left">💻 Tech Stack:</h1>
-
-###
-
-<h2 align="left">Programming Languages:</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="33" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="33" alt="c logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="33" alt="cplusplus logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="33" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="33" alt="python logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="33" alt="php logo"  />
-</div>
-
-###
-
-<h2 align="left">Frontend Development:</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="33" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="33" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="33" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="33" alt="react logo"  />
-</div>
-
-###
-
-<h2 align="left">Backend Development:</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="33" alt="nodejs logo"  />
-</div>
-
-###
-
-<h2 align="left">Hosting Platforms:</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="33" alt="vercel logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="33" alt="netlify logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="33" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<h2 align="left">Databases:</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<h2 align="left">Design and Graphics Tools:</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="33" alt="canva logo"  />
-  <img width="11" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="33" alt="figma logo"  />
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats:</h2>
-
-<p><img align="left" src="https://github.com/ThakreAyush" alt="ThakreAyush" /></p>
-
-<p>&nbsp;<img align="left" src="https://github.com/ThakreAyush" alt="ThakreAyush" /></p>
-
-<p><img align="center" src="https://github.com/ThakreAyush" alt="ThakreAyush" /></p>
-
- 
-
-###
-
- 
-[![codetichie18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codetechie18&theme=react-dark)](https://github.com/codetechie18/github-readme-activity-graph)
-
-
-<details align="center">
-  <summary> 
-    <h3>👨🏻‍💻 Hackathon Expirences</h3>
-  </summary>
-<br>
-
-| Position | Hackathon | Duration | Description | Link |
-|----------|-----------|----------|-------------|------|
-| Organising | Haack-Ar-Anya | 15th Nov 2025 | Jharkhand India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hackaranya.live/) |
-| Organising | Hack4Brahma | 4th Oct 2025 | Northeast India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4brahma.live/) |
-| Organising | NariHacks | 13th Sep 2025 | Central India’s Biggest Women-Only Hackathon | [NariNexus](https://www.narinexus.live/) |
-| Organising | Hack4Maha | 30th Aug 2025 | Central India's 24 Hours Premiere Hackathon | [NariNexus](https://www.hack4maha.live/) |
- 
-
-
