@@ -45,10 +45,6 @@ I am **Ayush** and it's amazing to have you here!<p>I'm a passionate Full Stack 
 
 
   <h2>📊 GitHub Stats:</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ayushthakre07&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ayushthakre07&theme=highcontrast&hide_border=true" alt="Streak Stats" style="max-width: 100%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushthakre07&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="max-width: 100%;" />
-  </p>
 
- 
+ <p><img src="https://nirzak-streak-stats.vercel.app/?user=ayushthakre07&theme=highcontrast&hide_border=true" alt="Streak Stats" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushthakre07&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="max-width: 100%;" /></p>
