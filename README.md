@@ -51,5 +51,4 @@ I am **Ayush** and it's amazing to have you here!<p>I'm a passionate Full Stack 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushthakre07&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="max-width: 100%;" />
   </p>
 
-  <p style="font-size: 12px; color: gray;">Proudly created with GPRM ( <a href="https://gprm.itsvg.in" style="color: #58a6ff;">https://gprm.itsvg.in</a> )</p>
-</div>
+ 
