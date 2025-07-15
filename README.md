@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="header_.png" height="175px"/></a>
+
 
 <h1 align="center">💫 Hey everyone, I'm Ayush</h1>
 <h3 align="center">Passionate developer solving real-world problems through efficient software development.</h3><br>
